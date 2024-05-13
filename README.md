@@ -7,7 +7,7 @@ The Hackathon Tracking System is a web application designed to streamline the pr
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [UI Design](#ui-design)
+- [Issues](#issues)
 
 ## Overview
 The Hackathon Tracking System is a platform designed to streamline the process of organizing and tracking hackathons for both administrators and participants. It allows administrators to post hackathons and track student participation, while providing students with a convenient way to register for and participate in hackathons.
@@ -25,5 +25,5 @@ The Hackathon Tracking System is a platform designed to streamline the process o
 - **Database**: 
 - **Version Control**: Git, GitHub
 
-## UI Design
+## Issues
 <!-- Content for the UI Design section -->
